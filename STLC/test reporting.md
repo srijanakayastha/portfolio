@@ -238,7 +238,7 @@ As a user of MarketMate, I get an error if I submit an invalid Date of Birth for
 | 1     | Go to home page MarketMate                | Home page is loaded                                         | OK     | [https://grocerymate.masterschool.com/](https://grocerymate.masterschool.com/) |               |
 | 2     | Click 'Shop'                              | Shop page is loaded and Age Verification modal is displayed | OK     |                                                                          |               |
 | 3     | Fill Date of birth as '03/03/1998'        |                                                             | OK     |                                                                          |               |
-| 4     | Click 'Confirm'                           | Message "Wrong birth date format used." is displayed        | NOT OK |                                                                          | [#10]        |
+| 4     | Click 'Confirm'                           | Message "Wrong birth date format used." is displayed        | NOT OK |                                                                          | [#5]  (https://github.com/srijanakayastha/portfolio/issues/5)     |
 | 5     | Click 'Alcohol' Category on the left side | Alcoholic products are not displayed                        | OK     |                                                                          |               |
 
 <img width="1889" height="818" alt="Screenshot 2026-02-04 130959" src="https://github.com/user-attachments/assets/891896e9-ed7d-4d80-b554-8eec9eea78ec" />
