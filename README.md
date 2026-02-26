@@ -1,4 +1,4 @@
-# QA / Test Engineer Portfolio  
+# Srijana Portfolio  
 **Masterschool – Software Engineering Program**
 
 This repository showcases my hands-on experience in Quality Assurance and Software Testing, completed as part of the Masterschool Software Engineering Program. The projects reflect my practical understanding of the Software Testing Life Cycle (STLC), requirement analysis, structured test documentation, and defect management.
