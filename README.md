@@ -1,45 +1,50 @@
-Srijana Portfolio
+# QA / Test Engineer Portfolio  
+**Masterschool – Software Engineering Program**
 
-###Masterschool – Software Engineering Program
+This repository showcases my hands-on experience in Quality Assurance and Software Testing, completed as part of the Masterschool Software Engineering Program. The projects reflect my practical understanding of the Software Testing Life Cycle (STLC), requirement analysis, structured test documentation, and defect management.
 
-This repository demonstrates my hands-on experience with the Software Testing Life Cycle (STLC), from requirement analysis to defect reporting.
+---
 
-**🔍 What This Project Includes**
+## 🔍 Project Overview
 
-Requirement Analysis
+### Requirement Analysis
+- Analyzed unclear and incomplete requirements.
+- Asked structured clarification questions.
+- Tested the system to define detailed and accurate feature requirements.
 
-Analyzed vague requirements and asked clarifying questions.
+### Test Planning
+- Created a comprehensive Test Plan including:
+  - Test objectives
+  - Stakeholders and target users
+  - In-scope and out-of-scope features
+  - Required testing types (Functional, Regression, Negative testing)
 
-Tested the system to define accurate and detailed feature requirements.
+### Test Case Design
+- Designed structured and traceable test cases.
+- Covered positive, negative, and edge-case scenarios.
 
-Test Planning
+### Test Execution & Defect Reporting
+- Executed test cases systematically.
+- Documented defects with:
+  - Clear reproduction steps
+  - Expected vs. actual results
+  - Severity and priority levels
 
-Created a structured Test Plan defining scope, stakeholders, objectives, and testing types.
+---
 
-Identified in-scope vs. out-of-scope functionality.
+## 🛠 Core QA Skills Demonstrated
 
-Test Case Design
+- Software Testing Life Cycle (STLC)
+- Requirement Analysis
+- Test Plan Creation
+- Test Case Design
+- Manual Testing
+- Functional & Regression Testing
+- Defect Reporting
+- Structured Documentation
 
-Designed clear, traceable test cases covering positive, negative, and edge scenarios.
+---
 
-Test Execution & Defect Reporting
+## 🎯 Professional Goal
 
-Executed test cases and documented defects with reproduction steps, expected vs. actual results, severity, and priority.
-
-**🛠 Core QA Skills**
-
-Requirement Analysis
-
-Test Planning
-
-Test Case Design
-
-Manual Testing
-
-Regression & Functional Testing
-
-Defect Reporting
-
-Structured Documentation
-
-🎯 Goal: Transitioning into a QA / Test Engineer role with a strong foundation in structured testing processes, analytical thinking, and quality-driven mindset.
+Aspiring QA / Test Engineer with a strong foundation in structured testing processes, analytical thinking, and a quality-focused mindset.
