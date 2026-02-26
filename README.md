@@ -1,11 +1,45 @@
-# Portfolio
-# Portfolio of Srijana Kayastha
-### This is my Portfolio for the assignments that I've done during the Software Engineering Program at Masterschool.
+Srijana Portfolio
 
- 1. First assignment is creating a portfolio.
-2. Second is to create the STLC folder that contains the written exercises.
-3. Based on the vague requirements, I've asked questions to find out how exactly should each feature work
- 4. I tested each feature on the system under test to answer each question and developed for each feature the detailed requirement
- 5. Wrote and updated the test plan, answering the questions: What is the objective of the test plan?; Who will the product be used by? Who are your user stakeholders?; What is the functionality of the product? Existing and to be added functionality; Which functionalities are in scope of testing?; What is out of scope for testing?; What types of testing is necessary for the new functionalities?
- 6. Designed the test cases for each new feature
- 7. Executed the test cases and reported the issues found while executing them
+###Masterschool – Software Engineering Program
+
+This repository demonstrates my hands-on experience with the Software Testing Life Cycle (STLC), from requirement analysis to defect reporting.
+
+**🔍 What This Project Includes**
+
+Requirement Analysis
+
+Analyzed vague requirements and asked clarifying questions.
+
+Tested the system to define accurate and detailed feature requirements.
+
+Test Planning
+
+Created a structured Test Plan defining scope, stakeholders, objectives, and testing types.
+
+Identified in-scope vs. out-of-scope functionality.
+
+Test Case Design
+
+Designed clear, traceable test cases covering positive, negative, and edge scenarios.
+
+Test Execution & Defect Reporting
+
+Executed test cases and documented defects with reproduction steps, expected vs. actual results, severity, and priority.
+
+**🛠 Core QA Skills**
+
+Requirement Analysis
+
+Test Planning
+
+Test Case Design
+
+Manual Testing
+
+Regression & Functional Testing
+
+Defect Reporting
+
+Structured Documentation
+
+🎯 Goal: Transitioning into a QA / Test Engineer role with a strong foundation in structured testing processes, analytical thinking, and quality-driven mindset.
