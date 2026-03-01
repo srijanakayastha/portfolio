@@ -132,7 +132,7 @@ Here is the given HTML:
 
 - //section[@id='services']//div[@class='service-item'][2]/p
 
-12.What is the XPath to select the "Contact Us" section header (<h2> element)?
+12.What is the XPath to select the "Contact Us" section header (<h2> element)?
 
 - //section[@id='contact']/h2
 
@@ -140,7 +140,7 @@ Here is the given HTML:
 
 - //nav//li[a[text()='Services']]//ul[@class='dropdown']//a
 
-14. What is the XPath to select the first <li> under the "Our Team" section?
+14. WWhat is the XPath to select the first <li> under the "Our Team" section?
 
 - //div[@class='team']/ul/li[1]
 
