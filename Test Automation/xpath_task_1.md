@@ -132,7 +132,7 @@ Here is the given HTML:
 
 - //section[@id='services']//div[@class='service-item'][2]/p
 
-12.What is the XPath to select the "Contact Us" section header (<h2> element)?
+12. What is the XPath to select the "Contact Us" section header ('<h2>' element)?
 
 - //section[@id='contact']/h2
 
