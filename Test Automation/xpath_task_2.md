@@ -3,7 +3,7 @@
 Go the https://grocerymate.masterschool.com 
 
 1. Write the XPath for the highlighted icon/button given in the image below.
-  https://img.notionusercontent.com/s3/prod-files-secure%2F3a9085c4-df29-45e6-8bc7-6c9c0a25ea8c%2F38f4acec-5e04-4646-8f54-5edd021120da%2Fimage.png/size/w=2000?exp=1772615935&sig=y5sbU_eTsPXPY7fGUafzFuLauNBvkzAM3G1zD_0XTkw&id=52261467-913b-430f-9cdf-b2d799135482&table=block
+  ![image.png](https://img.notionusercontent.com/s3/prod-files-secure%2F3a9085c4-df29-45e6-8bc7-6c9c0a25ea8c%2F38f4acec-5e04-4646-8f54-5edd021120da%2Fimage.png/size/w=2000?exp=1772615935&sig=y5sbU_eTsPXPY7fGUafzFuLauNBvkzAM3G1zD_0XTkw&id=52261467-913b-430f-9cdf-b2d799135482&table=block)
    **Solution:**
    - //div[@class = 'headerIcon'][1]
 
