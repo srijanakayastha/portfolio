@@ -47,4 +47,4 @@ This repository showcases my hands-on experience in Quality Assurance and Softwa
 
 ## 🎯 Professional Goal
 
-Aspiring QA / Test Engineer with a strong foundation in structured testing processes, analytical thinking, and a quality-focused mindset.
+Aspiring QA Engineer with a strong foundation in structured testing processes, analytical thinking, and a quality-focused mindset.
